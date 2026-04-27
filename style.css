@@ -97,7 +97,7 @@ body{
     color: #D99544;
 }
 main{
-    min-height:2000px;
+    min-height:1000px;
     display: flex;
 }
 
