@@ -23,6 +23,9 @@ ul {
 @media (min-width: 1200px) {
 
 }
+.la {
+    padding: 0 40px ;
+}
 .main {
     width: 224px;
     height: 557.59px;
@@ -74,7 +77,7 @@ input[type="checkbox"] {
     color: #504F4D;
 }
 .main .h {
-    margin: 0;
+    margin: 50px 0;
     padding: 0;
     color: #504F4D;
 }
