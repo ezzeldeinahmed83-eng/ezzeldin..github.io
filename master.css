@@ -125,6 +125,9 @@ ul .all .third {
 ul .all .third img {
     margin: 448px 43px;
 }
+.fav-btn.active {
+    background-color:red ;
+}
 .content .container {
     display: flex;
     flex-wrap: wrap;
