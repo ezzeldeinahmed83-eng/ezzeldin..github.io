@@ -63,6 +63,7 @@ label {
 }
 input[type="checkbox"] {
     accent-color: #644D40;
+    cursor: pointer;
 }
 .main .language {
     width: 155px;
@@ -121,6 +122,7 @@ ul .all .second {
 }
 ul .second span {
     color: #916640;
+    font-size: 14px;
 }
 ul .all .third {
     margin: 0 -25px
